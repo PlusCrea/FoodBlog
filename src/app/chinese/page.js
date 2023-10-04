@@ -2,9 +2,11 @@ import React from 'react'
 import list from "../../data/chinese/list"
 import Image from 'next/image'
 import Link from "next/link"
+import CreateSlug from '../util'
 
 export default function ChineseFood() {
   //console.log("list",list);
+  
   return (
 
     <section className="best-receipe-area">
@@ -20,7 +22,7 @@ export default function ChineseFood() {
       {/* Single Best Receipe Area */}
       {list && list.map((list) => (
         <div key={list.id} className="col-12 col-sm-6 col-lg-4">
-          <Link href={`/chinese/${list.id}`}>
+          <Link href={`/chinese/${CreateSlug(list.title)}/${list.id}`}>
         <div className="single-best-receipe-area mb-30">
         <Image
             src={list.image}

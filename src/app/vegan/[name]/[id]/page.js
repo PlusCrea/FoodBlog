@@ -3,8 +3,8 @@ import Image from 'next/image'
 export default async  function VeganFoodDetail({ params }) {
 
 let filename = "food-" + params.id + ".json"
-console.log("file",filename);
-const data =await  import(`../../../data/vegan/${filename}`)
+//console.log("file",filename);
+const data =await  import(`../../../../data/vegan/${filename}`)
 //console.log(data.method[0]);
 
   return (

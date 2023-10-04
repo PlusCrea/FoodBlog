@@ -1,10 +1,10 @@
 import Image from 'next/image'
 
-export default async  function MexicanFoodDetail({ params }) {
-
+export default async  function ChineseFoodDetail({ params }) {
+//console.log("params",params);
 let filename = "food-" + params.id + ".json"
-console.log("file",filename);
-const data =await  import(`../../../data/mexican/${filename}`)
+//console.log("file",filename);
+const data =await  import(`../../../../data/chinese/${filename}`)
 //console.log(data.method[0]);
 
   return (

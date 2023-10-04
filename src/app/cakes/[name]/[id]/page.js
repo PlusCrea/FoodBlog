@@ -4,7 +4,7 @@ export default async  function CakesFoodDetail({ params }) {
 
 let filename = "food-" + params.id + ".json"
 console.log("file",filename);
-const data =await  import(`../../../data/birthday/${filename}`)
+const data =await  import(`../../../../data/birthday/${filename}`)
 //console.log(data.method[0]);
 
   return (
