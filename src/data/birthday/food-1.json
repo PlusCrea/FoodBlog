@@ -1,0 +1,32 @@
+{
+    "id": "1",
+    "title": "Raspberry and custard muffins",
+    "difficulty": "Easy",
+    "portion": "Makes 12",
+    "time": "Hands-on time 25 min. Oven time 18 min",
+    "description": "Reminiscent of school traybakes with pink icing, these raspberry and custard muffins are given a suitably chic update – simply by turning cupcakes upside down. Adding custard to the cake batter creates a moist crumb and another layer of nostalgia, that pairs brilliantly with the raspberry in the jam icing.",
+    "ingredients": [
+        "140g unsalted butter, melted",
+        "3 medium free-range eggs",
+        "125g custard",
+        "1 tsp vanilla bean paste",
+        "180g golden caster sugar",
+        "180g self-raising flour",
+        "4 tbsp seedless raspberry jam",
+        "100g icing sugar",
+        "Sprinkles to decorate",
+        "12-hole muffin tin"
+    ],
+    "method": [
+        {
+            "Step 1": "Heat the oven to 170°C fan/gas 5. Brush around 20g of the melted butter into each hole of the muffin tin, ensuring some gets into every corner. Pop it in the fridge while you make the cake batter."
+        },
+        {
+            "Step 2": "In a large bowl, use a wooden spoon to mix the remaining 120g melted butter with the eggs, custard, vanilla and sugar until completely combined. Fold in the flour and a pinch of fine sea salt. Divide between the holes in the tin and bake for 14-18 minutes, until golden and springy to touch. Leave to cool in the tin for 5 minutes, then run a palette knife around the edge of each cake to release it. Transfer to a wire rack to cool completely. If the cakes have slight peaks on the base, remove these with a serrated knife once cool."
+        },
+        {
+            "Step 3": "Heat the jam in a small saucepan then sift over the icing sugar and mix until combined. Add a little boiling water until you have a spoonable consistency. Drizzle the icing over each cake, allowing it to drip over the edges a little, then scatter with sprinkles before the icing sets."
+        }
+    ],
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/1.jpg"
+}

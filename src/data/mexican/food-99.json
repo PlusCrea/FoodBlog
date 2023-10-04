@@ -1,0 +1,26 @@
+{
+    "id": "99",
+    "title": "Leftover chicken quesadillas",
+    "difficulty": "Easy",
+    "portion": "Serves 2",
+    "time": "Hands-on time 15 min",
+    "description": "This quesadilla recipe is a great way to use up leftover roast chicken and makes a perfect lunch to take to work.",
+    "ingredients": [
+        "75g cooked chicken or pancetta or a mix of both (or same weight in veg)",
+        "75g grated mature cheddar and edam",
+        "4 spring onions, sliced",
+        "1 jalapeno chilli, finely chopped",
+        "Large handful fresh coriander, chopped",
+        "Olive oil",
+        "2 flour tortillas"
+    ],
+    "method": [
+        {
+            "Step 1": "Combine the meat and/or veg with the cheese spring onions, chilli and coriander. Season well."
+        },
+        {
+            "Step 2": "Heat a glug of oil in a large frying pan. Put one tortilla in the pan and top with the filling, leaving a narrow border around the edge. Put another flour tortilla on top, then press down gently. Cook over a medium heat, pressing down on the quesadilla, for 3 minutes or until the underside is deep golden. Carefully flip the quesadilla over with a fish slice and cook on the other side in the same way until the underside is toasted and the cheese is melted. Serve cut into wedges."
+        }
+    ],
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/99.jpg"
+}

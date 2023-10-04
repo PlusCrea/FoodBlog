@@ -1,0 +1,46 @@
+{
+    "id": "2",
+    "title": "Black bean chilli soup with corn dumplings",
+    "difficulty": "Easy",
+    "portion": "Serves 4",
+    "time": "Hands-on time 30 min. Simmering time 2 hours",
+    "description": "Simmering black beans gently with garlic, chillies and lime rewards you with an easy, flavourful soup that you can leave bubbling away in the kitchen. We’ve taken inspiration from Mexico for this zingy broth, complete with fluffy corn dumplings.",
+    "ingredients": [
+        "300g dried black, pinto or red haricot beans",
+        "1 dried pasilla or ancho chilli, stem and seeds removed, then finely chopped",
+        "1 tsp dried oregano",
+        "2 tsp fine sea salt",
+        "2 garlic cloves",
+        "1 green or jalapeno chilli",
+        "Sour cream to serve (optional)",
+        "Finely grated zest and juice 2 limes",
+        "120g masa harina",
+        "1 tbsp olive oil",
+        "¼ tsp fine sea salt",
+        "Bunch coriander"
+    ],
+    "method": [
+        {
+            "Step 1": "Rinse the beans then put them in a large saucepan and cover with 1.5 litres water (it should cover the beans with about 5cm water on top). Add the dried chilli, oregano and salt to the pan. Bring to the boil."
+        },
+        {
+            "Step 2": "Meanwhile, put a small dry frying pan over a high heat and add the garlic and green chilli. Cook for 3-5 minutes until charred all over. Leave to cool slightly, then peel the garlic cloves and remove the stem and seeds from the chilli. Finely chop, then add to the pan of beans."
+        },
+        {
+            "Step 3": "Boil the beans for 10 min then reduce to a low simmer, cover and cook for 1½-2 hours until creamy and tender. You’ll need to stir the pot about every 30 minutes to prevent it from sticking."
+        },
+        {
+            "Step 4": "Make the dumplings once the beans have been simmering for 1 hour. Put the masa harina, olive oil and salt in a bowl, then finely chop roughly a third of the coriander and add that too (save the rest to garnish). Slowly add 160ml lukewarm water while mixing the dough with your hands until it comes together. Knead lightly for about 1 minute to form a dough."
+        },
+        {
+            "Step 5": "With wet hands, roll pieces of the dough into small spheres, about the size of a golfball. Lightly press your thumb into the centre of the ball to form a little crater. Pop them on a plate and repeat until all the dough is used up."
+        },
+        {
+            "Step 6": "When the beans are tender add the dumplings to the broth, keeping it at a low simmer (uncovered). Let them sit without stirring at first, then start spooning over some of the broth to help them cook through. After 10 minutes, gently stir the broth to move the dumplings around. Cook for another 5 minutes."
+        },
+        {
+            "Step 7": "Add the lime juice to the soup and season. Serve topped with a dollop of sour cream, the lime zest and the remaining coriander."
+        }
+    ],
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/2.jpg"
+}

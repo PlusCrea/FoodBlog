@@ -1,0 +1,30 @@
+{
+    "id": "1",
+    "title": "Dark chocolate bark with sea salt, rosemary, pistachios and candied citrus",
+    "difficulty": "Easy",
+    "portion": "Makes 6 generous shards",
+    "time": "Hands-on time 15 min, plus cooling",
+    "description": "Close your eyes and feel the Mediterranean sun beating down on you as you take a bite out of vegan dark chocolate bark studded with pistachios, rosemary-flavoured salt and little bursts of candied peel.",
+    "ingredients": [
+        "200g dark chocolate",
+        "1 tsp flaky sea salt",
+        "2 rosemary sprigs",
+        "Handful shelled pistachios",
+        "2 tbsp mixed peel or candied lemon, chopped"
+    ],
+    "method": [
+        {
+            "Step 1": "Bring a small pan of water to a simmer and put a heatproof bowl on top (ensuring the base of the bowl doesn’t touch the water). Finely chop the chocolate and add it to the bowl, then wait 5-10 minutes until it’s completely melted."
+        },
+        {
+            "Step 2": "Meanwhile, line a small baking dish or container (which will dictate the shape and size of your bark) with baking paper. Put the salt in a spice grinder or pestle and mortar, then finely chop the leaves from 1 of the rosemary sprigs. Grind the chopped leaves with the salt."
+        },
+        {
+            "Step 3": "Pour the melted chocolate into the lined dish or container, tilting it so the chocolate runs into each corner equally. Put the remaining rosemary sprig on top, then scatter the pistachios, rosemary salt and mixed peel all over the top."
+        },
+        {
+            "Step 4": "Leave to cool for 10 minutes, then cover and put in the fridge for 2 hours to set completely. Break into shards and keep in an airtight container for up to a week."
+        }
+    ],
+    "image": "https://apipics.s3.amazonaws.com/vegan_api/1.jpg"
+}
