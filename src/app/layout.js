@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Chinese Mexican Vegan and Birthday Cakes Food Recipes',
   description: 'Chinese Mexican Vegan and Birthday Cakes reciepes',
+  googlesiteverification: "WX_3aauX5bE2Wf4Y2GjN5h1mfBpukT9g7XGiFqByLWg" ,
 }
 
 export default function RootLayout({ children }) {
