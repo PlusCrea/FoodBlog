@@ -1,9 +1,6 @@
 import Image from 'next/image'
 import Link from "next/link"
-import mexican from './img/mexican.jpg'
-import chinese from './img/chinese.jpg'
-import birthday from './img/birthday.jpg'
-import vegan from './img/vegan.jpg'
+
 
 
 export default function Home() {
@@ -16,7 +13,7 @@ export default function Home() {
       <div className="col-12 col-lg-6">
         <div className="single-top-catagory">
         <Image
-      src={mexican}
+      src="/img/mexican.jpg"
       width={540}
       height={247}
       alt="Mexican Foods"
@@ -35,7 +32,7 @@ export default function Home() {
         <div className="single-top-catagory">
           
           <Image
-      src={chinese}
+      src="/img/chinese.jpg"
       width={540}
       height={247}
       alt="Picture of the author"
@@ -51,7 +48,7 @@ export default function Home() {
       <div className="col-12 col-lg-6">
         <div className="single-top-catagory">
         <Image
-      src={birthday}
+      src="/img/birthday.jpg"
       width={540}
       height={247}
       alt="Picture of the author"
@@ -70,7 +67,7 @@ export default function Home() {
         <div className="single-top-catagory">
           
           <Image
-      src={vegan}
+      src="/img/vegan.jpg"
       width={540}
       height={247}
       alt="Picture of the author"
