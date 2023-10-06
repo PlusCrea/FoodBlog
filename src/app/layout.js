@@ -1,4 +1,5 @@
 //import './globals.css'
+import { Analytics } from '@vercel/analytics/react';
 import './css/style.css'
 import { Inter } from 'next/font/google'
 import Header from './layout/header'
@@ -30,6 +31,7 @@ export default function RootLayout({ children }) {
         <Header/>
         {children}
         <Footer/>
+        <Analytics />
         </body>
         
     </html>
