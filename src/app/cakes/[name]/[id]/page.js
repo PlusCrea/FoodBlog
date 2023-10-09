@@ -1,10 +1,35 @@
 import Image from 'next/image'
+import list from "@/data/birthday/list"
+
+export async function generateMetadata({ params }) {
+  // read route params
+  let filename = "food-" + params.id + ".json"
+ 
+  // fetch data
+  const data =await  import(`@/data/birthday/${filename}`)
+ 
+  // optionally access and extend (rather than replace) parent metadata
+ 
+  return {
+    title: "Cakes Reciepes " + data.title,
+    openGraph: {
+      title: "Cakes Reciepes " + data.title,
+      description: data.description,
+    },
+  }
+}
+
+export async function generateStaticParams() {
+  return list.map((lst) => ({
+    id: lst.id,
+  }))
+}
 
 export default async  function CakesFoodDetail({ params }) {
 
 let filename = "food-" + params.id + ".json"
-console.log("file",filename);
-const data =await  import(`../../../../data/birthday/${filename}`)
+//console.log("file",filename);
+const data =await  import(`@/data/birthday/${filename}`)
 //console.log(data.method[0]);
 
   return (

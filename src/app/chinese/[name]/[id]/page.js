@@ -1,10 +1,35 @@
 import Image from 'next/image'
+import list from "@/data/chinese/list"
+
+export async function generateMetadata({ params }) {
+  // read route params
+  let filename = "food-" + params.id + ".json"
+ 
+  // fetch data
+  const data =await  import(`@/data/chinese/${filename}`)
+ 
+  // optionally access and extend (rather than replace) parent metadata
+ 
+  return {
+    title: "Chinese Reciepes " + data.title,
+    openGraph: {
+      title: "Chinese Reciepes " + data.title,
+      description: data.description,
+    },
+  }
+}
+
+export async function generateStaticParams() {
+  return list.map((lst) => ({
+    id: lst.id,
+  }))
+}
 
 export default async  function ChineseFoodDetail({ params }) {
 //console.log("params",params);
 let filename = "food-" + params.id + ".json"
 //console.log("file",filename);
-const data =await  import(`../../../../data/chinese/${filename}`)
+const data =await  import(`@/data/chinese/${filename}`)
 //console.log(data.method[0]);
 
   return (

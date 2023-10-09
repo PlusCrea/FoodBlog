@@ -1,8 +1,14 @@
 import React from 'react'
-import list from "../../data/vegan/list"
+import list from "@/data/vegan/list"
 import Image from 'next/image'
 import Link from "next/link"
 import CreateSlug from '../util'
+
+export const metadata = {
+  title: 'The Vegan Receipies',
+  description: 'The Vegan Receipies',
+}
+
 
 export default function VeganFood() {
   //console.log("list",list);

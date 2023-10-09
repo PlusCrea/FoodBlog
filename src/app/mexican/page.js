@@ -4,6 +4,11 @@ import Image from 'next/image'
 import Link from "next/link"
 import CreateSlug from '../util'
 
+export const metadata = {
+  title: 'The Mexican Receipies',
+  description: 'The Mexican Receipies',
+}
+
 export default function MexicanFood() {
   //console.log("list",list);
   return (

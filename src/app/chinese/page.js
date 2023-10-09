@@ -1,8 +1,13 @@
 import React from 'react'
-import list from "../../data/chinese/list"
+import list from "@/data/chinese/list"
 import Image from 'next/image'
 import Link from "next/link"
 import CreateSlug from '../util'
+
+export const metadata = {
+  title: 'The Chinese Receipies',
+  description: 'The Chinese Receipies',
+}
 
 export default function ChineseFood() {
   //console.log("list",list);

@@ -1,8 +1,13 @@
 import React from 'react'
-import list from "../../data/birthday/list"
+import list from "@/data/birthday/list"
 import Image from 'next/image'
 import Link from "next/link"
 import CreateSlug from '../util'
+
+export const metadata = {
+  title: 'The Birthday Cakes Receipies',
+  description: 'The Birthday Cakes Receipies',
+}
 
 export default function CakesFood() {
   //console.log("list",list);
