@@ -1,2510 +1,2503 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://food-blog-psi.vercel.app/</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/cakes</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/pressure-cooker-refried-beans/1</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/black-bean-chilli-soup-with-corn-dumplings/2</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/fishcake-tacos/3</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/black-bean-and-chicken-burritos/4</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/pork-tacos-with-sweetcorn-and-feta/5</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/taco-slaw-with-pink-pickled-onions/6</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoky-chipotle-tofu-with-tomatoes-and-avocado/7</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chilaquiles-with-fresh-tomatillo-salsa/8</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chipotle-baked-eggs/9</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/venison-tacos-with-grilled-spring-onions-and-peanut-salsa/10</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/easy-huevos-rancheros/11</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/turkey-pozole/12</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-style-barbecued-beef-brisket-with-quick-pickled-onions/13</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/frozen-mango-margarita/14</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/raspberry-margarita/15</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/enchiladas-verdes/16</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/margarita-cheesecake-with-tequila-strawberries/17</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/bolognese-quesadilla/18</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sausage-burritos-with-pea-and-avocado-guacamole/19</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/taco-traybake/20</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/slow-cooked-chipotle-chicken/21</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/beef-burrito-bowls/22</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/classic-margarita-cocktail/23</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/ensenada-fish-tacos/24</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/tex-mex-enchilada-bake/25</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/scampi-tacos-with-jalapeo-tartare-sauce-and-avocado/26</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/crispy-tacos-with-charred-veg-and-refried-beans/27</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/slow-cooked-chicken-tinga-tacos-with-pickled-onions/28</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-chicken-and-red-rice-burrito-bowls/29</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/cornbread-with-mexican-style-salad/30</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sweet-potato-and-black-bean-nachos/31</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/zaatar-spiced-lamb-tacos/32</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/perfect-guacamole/33</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/steak-and-pepper-fajitas/34</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/jalapeo-bacon-and-crispy-potato-frittata/35</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/paloma-cocktail/36</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-style-prawn-rice-with-avocado-salsa/37</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/fish-and-chip-tacos-with-pea-guacamole/38</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sweet-potato-pea-and-cheese-quesadillas/39</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/taco-salad-bowls-with-prawns/40</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chicken-and-pepper-pie-with-tortilla-crisps/41</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-style-pork-carnitas/42</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sweet-potato-chilli-nachos/43</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/easy-mexican-chicken-traybake/44</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sweet-potato-red-pepper-and-turkey-enchiladas/45</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/breakfast-burrito/46</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-chicken-and-tortilla-stew/47</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/black-bean-sweetcorn-and-red-pepper-chimichangas/48</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/real-black-bean-chilli-con-carne-with-avocado-and-lime-salsa/49</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/cheesy-quesadillas-with-tomato-red-pepper-and-avocado-salsa/50</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/prawn-tacos/51</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-chicken-taco-salad/52</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/nachos-with-pulled-pork-and-sweetcorn-salsa/53</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/crispy-mexican-tortilla-rice-bowl/54</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/charred-corn-and-chicken-tacos/55</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-chicken-burgers/56</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-fish-tacos/57</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/brazilian-black-bean-soup-with-raw-corn-salsa/58</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/cornbread-with-deep-fried-crispy-onions/59</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/corned-beef-and-bean-hash-with-chimichurri/60</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/slow-cooked-duck-tacos-with-pineapple-salsa/61</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-picadillo-pasties/62</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoky-pork-and-black-bean-stew-with-kale/63</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-veggie-and-tortilla-soup/64</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoky-sausage-chilli/65</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/vegan-chilli-with-rice/66</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/easy-shakshuka/67</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spicy-ancho-chilli-chicken-and-chorizo-hotpot/68</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/harissa-spiced-lamb-tacos/69</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoked-lentil-tacos-with-pico-de-gallo/70</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/green-veg-and-chicken-tacos-with-pea-guacamole/71</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoky-bean-and-sweet-potato-tortillas-with-lime-pickled-onions/72</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoky-coriander-beef-fajitas/73</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chipotle-chicken-chilli-with-avocado/74</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/braised-beef-chilli/75</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/veggie-chilli-with-nachos/76</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/red-pepper-and-courgette-enchiladas/77</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/beef-enchiladas/78</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/fried-kale-with-black-bean-chilli-and-guacamole/79</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spicy-turkey-enchiladas/80</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/cheddar-jalapeo-chilli-and-sweetcorn-muffins/81</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/parmesan-taco-shells/82</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/beef-fajitas-with-avocado-and-sweetcorn-salsa/83</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/vegetarian-huevos-rancheros/84</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/lighter-chicken-enchiladas/85</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoky-sweetcorn-fritters-with-tarragon-yogurt/86</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/ultimate-chilli/87</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spicy-guacamole/88</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/tomato-salsa-salad/89</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spicy-mexican-tortilla-soup-with-avocado-salsa/90</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/quick-chilli-con-carne/91</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/tres-leches-cake-with-white-russian-syrup/92</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/ernestos-winning-chilli/93</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/beef-chilli-with-dark-chocolate/94</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoky-beef-chilli-with-black-beans/95</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/drunken-caterpillar-chilli-con-carne/96</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/barbecue-sweet-potatoes-with-garlic-and-herb-dressing/97</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/griddled-cheesy-cornbreads/98</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/leftover-chicken-quesadillas/99</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sweetcorn-salsa/100</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-lamb-wraps-with-guacamole/101</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-mole-rojo/102</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/diana-henrys-mexican-chicken-and-pumpkin-with-pepita-pesto/103</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/vegetarian-chilli/104</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/one-pan-chilli-eggs-with-guacamole/105</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/quick-steak-fajitas-with-pickled-red-onions/106</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-baked-beans/107</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chilli-con-carne-with-avocado-and-chilli-salsa/108</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/maple-and-chilli-pork-wraps-with-smoky-mayo/109</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mojito-tin-can-cupcakes/110</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/nachos-with-oxtail-chilli/111</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chicken-fajitas-with-corn-salsa/112</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chunky-chilli-chicken-soup/113</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-style-pork-wraps/114</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/tex-mex-beef-burritos/115</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chipotle-black-bean-chilli-with-guacamole/116</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smokin-hot-cocktail/117</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/black-bean-burger-with-seared-halloumi/118</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spiced-sweetcorn-and-potato-fritters-with-guacamole/119</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/beef-nachos/120</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/griddled-chicken-with-mango-and-red-onion-salsa/121</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-breakfast-tortillas-with-avocado/122</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-sweetcorn-with-smoky-chilli-cheese-and-lime/123</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/blackened-fish-with-mango-salsa/124</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/harissa-lamb-tacos/125</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-steak-and-bean-salad-recipe/126</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/refried-beans/127</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sweet-and-spicy-chicken-quesadillas-recipe/128</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chicken-enchiladas/129</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spicy-mexican-bean-burgers/130</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/baja-style-deep-fried-mackerel-tacos/131</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/a-real-mexican-chilli/132</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chicken-with-a-salsa-salad/133</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoky-chicken-wraps/134</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/lime-and-coriander-guacamole-salad/135</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/cheats-beef-tacos/136</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/classic-chilli-con-carne/137</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/fresh-guacamole/138</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/home-made-tortilla-chips/139</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/lemon-chilli-chicken-fajitas/140</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sticky-chipotle-lamb-with-caramelised-corn/141</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/michelada-cocktail/142</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chilli-burritos-with-tomato-relish/143</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/quick-spicy-quesadillas/144</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/huevos-rancheros/145</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/white-chilli/146</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/tex-mex-beef/147</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/cheats-vegetable-chilli-jackets/148</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spiced-beef-chilli/149</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/avocado-and-cheese-quesadillas/150</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/tuna-steaks-with-avocado-and-red-onion-salsa/151</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chicken-and-chilli-chocolate-stew/152</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-style-pork-with-sweet-potatoes-and-lime-yogurt/153</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/tomato-and-spicy-sausage-baked-eggs-with-cornbread/154</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spicy-steak-and-black-bean-chilli/155</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/one-pot-chilli/156</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/sweetcorn-cakes-with-avocado-salsa/157</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-beef-and-polenta-cobbler/158</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/quick-chilli-with-rice/159</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/spiced-salmon-with-pineapple-salsa/160</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-style-bean-and-chorizo-salad/161</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/quorn-chilli/162</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/nachos-with-avocado-salsa/163</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/smoked-salmon-and-guacamole-shots/164</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/quick-vegetarian-quesadillas/165</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/quick-beef-steak-chilli-con-carne/166</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chicken-fajitas-with-tomato-salsa/167</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/mexican-chicken-skewers-with-guacamole/168</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/instant-chicken-salad-with-tortilla-chips/169</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chicken-and-smoked-mozzarella-quesadillas/170</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/prawn-and-guacamole-wraps/171</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/chilli-steak-fajitas/172</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/mexican/guacamole-salad/173</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/homemade-crispy-chilli-oil/1</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-and-lemongrass-hot-and-sour-soup/2</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/steamed-lap-cheong-with-five-treasure-fried-rice/3</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/jeremy-pangs-general-tsos-chicken/4</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/mimi-mei-fairs-hokkien-noodles/5</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/giant-prawn-toast/6</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/wuns-kung-pao-chicken/7</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/crispy-pork-potsticker-dumplings/8</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/hunan-style-crispy-mushroom-noodle-salad/9</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/black-bean-tofu-and-baby-pak-choi/10</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/hot-and-sour-soup/11</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/vegan-tofu-stir-fry/12</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/vegetable-and-sweet-chilli-spring-rolls/13</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stir-fried-beef-in-black-bean-sauce/14</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/leftover-roast-lamb-stir-fry/15</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/caramelised-apples-with-sesame/16</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/ken-homs-crispy-fish-spring-rolls/17</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stuffed-bitter-melon-with-black-bean-sauce/18</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/ken-homs-steamed-chicken-with-chinese-sausage/19</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/ken-homs-chicken-on-crispy-noodles/20</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/speedy-chilli-turkey-stir-fry/21</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/kung-pao-cauliflower/22</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/spicy-prawn-toasts/23</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/bang-bang-tofu-salad/24</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/baked-venison-puffs/25</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/fragrant-maple-pineapple-with-coconut-ice-cream/26</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-and-smoky-red-cooked-cod-hong-sao-yu/27</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/noodles-in-a-spinach-and-garlic-sauce/28</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/pork-celery-and-water-chestnut-wontons-with-ma-la-chilli-oil/29</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/wok-fried-fragrant-scallops/30</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/ginger-chicken-congee-rice-porridge-with-kimchi/31</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chicken-ginger-and-oyster-sauce-stir-fry/32</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-sesame-and-soy-chicken-traybake/33</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/singapore-pork-and-prawn-noodles/34</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-toast-scotch-eggs/35</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/tofu-with-caramel-and-sichuan-pepper/36</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-cabbage-and-sichuan-pepper-stir-fry/37</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/bao-buns-with-orange-and-pomegranate-glazed-lamb/38</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-beef-and-charred-brussels-sprouts-fried-rice/39</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/beef-and-spring-onion-skewers-with-sticky-rice/40</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/home-smoked-salmon-with-green-herb-lettuce-salad/41</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/griddled-scallops-with-oriental-dressing/42</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/lemongrass-and-coconut-chicken-stir-fry/43</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/hoisin-duck-on-cucumber/44</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/pork-and-hoisin-stir-fry/45</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/spicy-lemon-rice/46</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/spicy-chicken-chow-mein-noodles/47</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/egg-fried-rice-and-veg-stir-fry/48</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/asian-braised-beef-with-pak-choi/49</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/barbecued-asian-lamb/50</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-asian-pork-with-sesame-greens/51</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/ginger-chilli-and-lime-steamed-cod-with-stir-fried-red-cabbage-and-coriander-rice/52</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/battered-prawns-with-spiced-herb-relish/53</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chicken-fried-rice/54</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/tofu-stir-fry/55</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/natasha-corretts-grilled-aubergine-miso-salad/56</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/green-noodle-and-tofu-salad-with-ginger-and-tamari-dressing/57</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/singapore-style-stir-fried-noodles/58</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/brown-sugar-and-chilli-chicken-wings/59</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chinese-style-sticky-pork-ribs/60</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/pork-prawn-and-shiitake-bean-curd-wraps/61</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-sesame-prawn-spring-onion-and-radish-stir-fry/62</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-beef-stir-fry-with-cabbage-and-coconut/63</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/duck-pancakes-with-quick-pickled-spring-onions/64</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chinese-chicken-with-noodles/65</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/seared-asian-style-beef-and-stir-fried-savoy-cabbage/66</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/poached-wontons-in-chilli-garlic-sauce/67</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/bao-buns-with-braised-shortrib-and-pickled-daikon/68</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/hainanese-chicken-rice/69</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/five-spice-chicken-skewers-with-speedy-chow-mein/70</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/asian-style-marinated-pork-neck-with-pickled-carrots/71</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stir-fried-red-rice/72</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/spiced-brisket-with-chilli-lime-peanut-and-coriander/73</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/duck-pancakes-with-pickled-carrot-salad/74</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chinese-noodles-with-mushrooms/75</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/peanut-sesame-and-ginger-noodles-with-wild-alaskan-salmon/76</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-and-herb-lettuce-cups-with-ginger-dressing/77</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chicken-and-egg-fried-rice/78</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-spiced-soy-meatballs-with-spinach-rice/79</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/soy-glazed-chicken-salad/80</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/crispy-pork-with-coriander-rice/81</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-ginger-beef-and-sprouting-broccoli-stir-fry/82</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-egg-fried-rice/83</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-beef-stir-fry/84</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-pork-stir-fry/85</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-chilli-chicken-peanut-and-noodle-salad/86</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/five-spice-chicken-noodle-stir-fry/87</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sesame-crusted-chicken-with-chilli-and-soy-noodles/88</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-chicken-with-jasmine-rice/89</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/gingery-beef-and-mushroom-pie/90</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-and-sour-pork-and-prawns-with-jasmine-rice/91</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/five-spice-slow-roast-pork-belly-with-pea-and-leek-pilaf/92</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sesame-chicken-stir-fry/93</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-chilli-and-black-bean-pork-with-egg-fried-rice/94</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/broccoli-and-mushroom-sweet-chilli-noodles/95</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/peking-duck-stir-fried-rice/96</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chinese-crispy-duck/97</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/aromatic-poached-and-barbecued-chicken/98</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/duck-with-spiced-plums/99</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-spring-rolls/100</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-and-sour-prawns/101</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stir-fried-chinese-greens/102</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/papaya-and-dragon-fruit-salad/103</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-and-pepper-stir-fry/104</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-chinese-style-omelette/105</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-chilli-and-thyme-pork-stir-fry/106</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/aubergine-and-tofu-stir-fry/107</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chicken-and-cashew-nuts/108</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/broccoli-and-mixed-mushrooms-in-garlic-black-bean-sauce/109</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sichuan-smoky-bacon-cabbage/110</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/tender-sesame-beef-and-pepper-stir-fry/111</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-chicken-stir-fry/112</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/cheats-szechuan-beef/113</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sesame-seed-crusted-chicken-stir-fry/114</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/five-spice-duck-with-ginger-onion-and-orange-salad/115</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/hot-and-sour-prawn-noodle-soup/116</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/roasted-sesame-salmon-with-ginger-and-chilli-pak-choi/117</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sizzling-paprika-beef-with-peppers-and-broccoli/118</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-soy-and-hoisin-pork/119</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/cheats-spicy-prawn-singapore-noodles/120</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-beef-and-noodle-salad/121</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-prawn-stir-fry/122</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-chinese-pork/123</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-asian-style-pork-burgers/124</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stir-fried-beef-with-broccoli-and-cashew-nuts/125</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-egg-fried-rice/126</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-and-sour-pork/127</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/cheats-lemon-chicken/128</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sesame-salmon-noodles/129</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/spicy-oriental-lamb-salad/130</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-and-sour-chicken/131</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/braised-oriental-lamb/132</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/szechuan-pork/133</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-sweet-gammon-with-stir-fry-vegetables/134</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-duck-with-quick-egg-fried-rice/135</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-sesame-tofu-and-pak-choi-stir-fry/136</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stir-fried-chicken-and-noodles-in-plum-sauce/137</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/duck-and-pear-salad/138</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-chicken/139</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/oriental-mushroom-and-pak-choi-stir-fry/140</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/oriental-roast-chicken-with-coconut-gravy/141</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/crispy-tofu-stir-fry/142</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/cheats-plum-duck-noodles/143</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/five-spice-roast-pork-with-miso-soup/144</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chinese-duck-noodle-broth/145</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-lime-and-ginger-chicken/146</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/beef-and-bok-choi-noodles/147</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/cinnamon-orange-honey-and-rosebud-tea/148</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/roasted-spiced-sweet-potatoes/149</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chocolate-chip-cookie-and-rolo-dumplings/150</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/pork-and-prawn-wonton-soup/151</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/tamarind-duck-on-mini-poppadums/152</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/duck-with-vegetable-fried-rice/153</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/spicy-chicken-nasi-goreng/154</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chargrilled-soy-chilli-chicken/155</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-soy-beef-in-do-fo-ru-with-garlic-mushrooms/156</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/five-spice-coleslaw/157</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-and-sour-beef-noodles/158</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sticky-marmalade-duck/159</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chinese-chicken-and-spring-onion-salad/160</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stir-fried-chicken-and-vegetable-noodles/161</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/egg-fried-peanut-rice/162</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/asian-style-potato-cakes-with-coleslaw/163</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/blackened-five-spice-duck-with-mini-roast-potatoes/164</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/baby-savoy-cabbage-with-pancetta-and-star-anise/165</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/steak-and-five-spice-stir-fry/166</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chicken-and-broccoli-spaghetti/167</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/scallops-in-black-bean-sauce-with-mushrooms/168</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stir-fried-garlic-chilli-beef-and-ong-choi/169</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/char-siu-pork-on-steamed-pak-choi/170</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/peking-duck-rice-paper-rolls-recipe/171</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-noodle-stir-fry/172</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chilli-chicken-udon-noodles-with-ginger/173</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/red-roast-duck-curry-with-lychees/174</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-nasi-goreng/175</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chicken-and-cashew-nut-stir-fry/176</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-chilli-prawn-and-egg-noodle-salad/177</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/szechuan-salmon-with-pink-peppercorns/178</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/smoked-chicken-and-papaya-salad-with-a-ginger-and-sesame-dressing/179</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/five-spice-duck-and-ginger-noodle-soup/180</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/yellow-pepper-and-black-bean-stir-fry/181</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chicken-cashew-and-noodle-salad/182</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-stir-fried-beef-in-oyster-sauce/183</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/honey-and-ginger-chicken/184</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-chinese-duck-salad/185</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chinese-poached-chicken-with-ginger/186</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/prawn-poppadoms/187</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/roast-duck-with-star-anise-and-orange-sauce/188</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/quick-chilli-chicken-noodles-with-peanuts/189</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/sweet-and-sour-chilli-prawns/190</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/honey-and-orange-chicken-stir-fry/191</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/crab-dumplings-in-pea-broth/192</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/chinese-orange-beef-stir-fry/193</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/congee-with-egg-and-greens/194</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/honeyed-duck-and-vegetable-stir-fry/195</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/chinese/stir-fried-purple-sprouting-broccoli/196</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/dark-chocolate-bark-with-sea-salt-rosemary-pistachios-and-candied-citrus/1</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pressure-cooker-refried-beans/2</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/beetroot-spinach-and-coconut-curry/3</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/traditional-pretzels/4</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/homemade-crispy-chilli-oil/5</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/ultimate-vegan-lasagne/6</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-victoria-sponge-cake/7</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-quiche/8</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-chocolate-brownies/9</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-blueberry-pancakes/10</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-sausage-casserole/11</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/air-fryer-potato-wedges/12</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/potato-pineapple-and-cashew-curry/13</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/cauliflower-with-olives-preserved-lemons-and-giant-couscous/14</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/easy-rhubarb-cordial/15</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/paul-a-youngs-vegan-chocolate-truffles/16</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-cabbage-cacciatore/17</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-butternut-squash-risotto-with-millet/18</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/marmite-parsnips-with-poppy-seeds/19</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-tart-with-miso-frangipane-and-onions/20</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/confit-parsnip-and-carrot-crumble/21</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/caramelised-onion-pear-and-chestnut-stuffing/22</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/ultimate-vegan-gravy/23</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/leek-and-watercress-risotto/24</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pickled-bramble-martini/25</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/the-dusty-knuckles-sourdough-starter/26</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/the-dusty-knuckles-linseed-baguettes/27</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/runner-bean-and-apple-chutney/28</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pumpkin-curry/29</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/coconut-dhal-and-chapatis/30</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/british-plum-umeboshi/31</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/plum-and-vanilla-jam/32</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/smoky-jollof-rice/33</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pide-dough/34</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/strawberry-collins/35</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/crispy-shallots/36</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/taco-slaw-with-pink-pickled-onions/37</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/corn-on-the-cob-peanut-curry/38</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pink-pickled-onions/39</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/padron-peppers/40</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/limoncello-spritz/41</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-kimchi/42</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pomegranate-glazed-aubergines-and-courgette-tabbouleh/43</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/green-coriander-chutney/44</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/smoky-chipotle-tofu-with-tomatoes-and-avocado/45</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/jos-pizarros-carajamandanga-chilled-tomato-soup/46</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/jackfruit-pickle-kathal-achaar/47</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/shchi-cabbage-and-caraway-soup/48</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/lime-pickle/49</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/mango-chutney-aam-ki-meethi-chutney/50</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/warmed-asparagus-and-lettuce/51</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/prebranac-caramelised-onion-baked-beans/52</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pomegranate-fattoush/53</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/platinum-jubilee-gin-punch/54</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/prassinopita-celebration-of-greens-pie/55</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/orange-fennel-and-pea-shoot-salad-with-walnuts/56</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/rhubarb-gin/57</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/hibiscus-and-kombucha-sparkling-mocktail/58</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/almond-and-cranberry-granola-bars/59</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-chocolate-cake/60</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/spiced-rice-and-lentils-with-roast-squash/61</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/garlic-and-chilli-purple-sprouting-broccoli/62</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/jodhpuri-mirchi-vada-spiced-chilli-fritters/63</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-wild-garlic-lasagne/64</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/aloo-paratha-potato-flatbreads/65</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/mushroom-and-truffle-khichadi/66</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/preserved-lemons/67</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/spicy-vegan-omelette/68</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/veggie-steak-slice/69</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-jackfruit-masala/70</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-chocolate-chip-oat-bars/71</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/veggie-sausage-casserole-with-apples-and-cider/72</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/smoky-vegan-chilli/73</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/sherry-spritz/74</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/garlic-roast-potatoes-with-bay-leaves/75</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/nut-roast-balls-onion-gravy-and-greens/76</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vodka-infused-cranberry-sauce/77</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/salt-baked-celeriac-with-tahini/78</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/stir-fried-red-cabbage-with-pear-and-five-spice/79</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/whole-roasted-satay-cauliflower/80</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/gennaro-contaldos-limoncello/81</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/cherry-mincemeat/82</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/roast-sprouts-cranberries-and-kale/83</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/quince-jelly/84</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/membrillo-quince-paste/85</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/easy-overnight-oats/86</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/roasted-rainbow-carrot-salad/87</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/griddled-zaatar-flatbreads/88</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/root-vegetable-and-lentil-tagine/89</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pickled-peaches/90</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-pesto-spaghetti-with-lemon-and-courgettes/91</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/chetna-makans-tamarind-aubergine-curry-imli-baigan-curry/92</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pickle-spiced-chickpeas-aachari-chole/93</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/peanut-butter-sweet-potato-and-spinach-curry/94</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/caponata-with-couscous/95</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-hot-dogs/96</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/barbecued-vegetables-with-tahini-dressing/97</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/orzo-with-roasted-veg-sauce/98</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/easy-homemade-bagels/99</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/mushroom-burger/100</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/lemon-basmati-rice/101</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/grilled-aubergine-with-peanut-and-spice-crust/102</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-minestrone-soup/103</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/lemon-verbena-and-vanilla-cordial/104</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/houmous-with-pine-nuts/105</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/hot-cross-bun-spiced-gin/106</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/rhubarb-and-onion-chutney/107</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/roast-spiced-cauliflower-with-chickpeas/108</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/golden-sauerkraut/109</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/best-fried-potatoes/110</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/cavolo-nero-apple-and-mint-salad/111</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/nutty-avocado-and-mango-salad-with-soy-and-lime-dressing/112</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/hunan-style-crispy-mushroom-noodle-salad/113</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/black-bean-tofu-and-baby-pak-choi/114</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/hot-and-sour-soup/115</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/whisky-marmalade/116</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/root-vegetable-crisps/117</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/pinsa-romana-bases-roman-style-pizza/118</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/curried-lentil-soup-with-kale-and-almond-topping/119</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/roast-potatoes-with-polenta-balsamic-and-thyme/120</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/balsamic-and-brown-sugar-roast-carrots-and-parsnips/121</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/crisp-and-sticky-kale-and-butter-beans-with-balsamic-vinegar/122</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-tofu-stir-fry/123</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/roast-carrots-and-parsnips-with-hazelnut-dukkah/124</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegetable-and-sweet-chilli-spring-rolls/125</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://food-blog-psi.vercel.app/vegan/vegan-spaghetti-bolognese/126</loc>
-  <lastmod>2023-10-04T23:44:28+00:00</lastmod>
+  <lastmod>2023-10-04</lastmod>
   <priority>0.64</priority>
 </url>
 

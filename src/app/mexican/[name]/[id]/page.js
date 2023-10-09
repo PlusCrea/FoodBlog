@@ -45,6 +45,7 @@ const data =await  import(`@/data/mexican/${filename}`)
             width={500}
             height={250}
             alt={data.title}
+            loading="lazy"
           />
       </div>
     </div>

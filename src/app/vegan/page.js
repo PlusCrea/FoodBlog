@@ -34,6 +34,7 @@ export default function VeganFood() {
             width={350}
             height={301}
             alt={list.title}
+            loading="lazy"
           />
           <div className="receipe-content">
           
